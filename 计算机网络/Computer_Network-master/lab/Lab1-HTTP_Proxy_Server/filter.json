@@ -1,0 +1,12 @@
+{
+    "host": [
+        "www.tsinghua.edu.cn",
+        "http://www.whu.edu.cn/"
+      ],
+      "ip": [
+        "127.0.0.1"
+      ],
+      "fishing": [
+        "www.fudan.edu.cn"
+      ]
+}
