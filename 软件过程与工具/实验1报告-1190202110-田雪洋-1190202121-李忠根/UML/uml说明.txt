@@ -1,0 +1,1 @@
+uml使用eclipse的插件AmaterasUML生成，.cld文件使用该插件打开
